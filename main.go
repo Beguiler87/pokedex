@@ -1,3 +1,4 @@
+// This project was great fun to work on, and is fully functional.
 package main
 
 import (
